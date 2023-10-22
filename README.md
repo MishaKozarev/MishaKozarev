@@ -38,21 +38,21 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-## My Projects
+### 📈 My Projects
 
-### [Plants](https://mishakozarev.github.io/Plants/)
+#### [Plants](https://mishakozarev.github.io/Plants/)
 
-### [Momentum](https://mishakozarev.github.io/Momentum/)
+#### [Momentum](https://mishakozarev.github.io/Momentum/)
 
-### [Shelter](https://mishakozarev.github.io/Shelter/shelter/pages/main/)
+#### [Shelter](https://mishakozarev.github.io/Shelter/shelter/pages/main/)
 
-### [Virtual-keyboard](https://mishakozarev.github.io/virtual-keyboard/)
+#### [Virtual-keyboard](https://mishakozarev.github.io/virtual-keyboard/)
 
-### [Minesweeper](https://mishakozarev.github.io/Minesweeper/minesweeper/)
+#### [Minesweeper](https://mishakozarev.github.io/Minesweeper/minesweeper/)
 
-### [Rss-css-selectors](https://mishakozarev.github.io/CSS-Selectors-game/rs-css/index/)
+#### [Rss-css-selectors](https://mishakozarev.github.io/CSS-Selectors-game/rs-css/index/)
 
-### [eCommerce-Application](https://mishakozarev.github.io/eCommerce-Application/index/)
+#### [eCommerce-Application](https://mishakozarev.github.io/eCommerce-Application/index/)
 
 ---
 
@@ -73,10 +73,10 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### English - A2
+### 🌍 English - A2
 
-### [About me](https://www.youtube.com/watch?v=FIifz2QYDQ0)
-### [Presentation on the topic TypeScript](https://www.youtube.com/watch?v=0A_YIyrc-6g)
+#### [About me](https://www.youtube.com/watch?v=FIifz2QYDQ0)
+#### [Presentation on the topic TypeScript](https://www.youtube.com/watch?v=0A_YIyrc-6g)
 
 
 ### 💻 Codewars:
