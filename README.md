@@ -7,14 +7,25 @@
 
 I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.My professional goal is to become a front-end developer. To achieve this goal, I devote all my time to learning programming. I have such qualities as analytical thinking, a structured approach to completing tasks, responsibility, and ability to work in a team.
 
+## ⚡ Courses
+> The Rolling Scopes School
+  - JS/FE Pre-School 2022Q4
+  - Dec 2022 - Mar 2023
+  - <img src="./assets/certificate-1.png">
+  - [Certificate](https://app.rs.school/certificate/lmtosrkd)
 
-- :zap: Completed the courses - JS/FE Pre-School 2022Q4.<img src="./assets/certificate-1.png">
+> The Rolling Scopes School
+  - JavaScript/Front-end 2023Q1
+  - Mar 2023 - sep 2023
+  - <img src="./assets/certificate-1.png">
+  - [Certificate](https://app.rs.school/certificate/lajfcpqz)
 
-- :zap: Completed the courses - JavaScript/Front-end 2023Q1<img src="./assets/certificate-2.png">
+> The Rolling Scopes School
+  - Angular 2023Q4
+  - oct 2023 - now
 
-- :zap: Study now - Angular 2023Q4
-
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-MishaKozarev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MishaKozarev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mishaaaaa1986@mail.ru)
+### :mailbox: Contacts:
+[![Telegram Badge](https://img.shields.io/badge/-MishaKozarev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MishaKozarev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mishaaaaa1986@mail.ru)
 
 ---
 
