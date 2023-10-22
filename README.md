@@ -73,6 +73,11 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
+### English - A2
+
+### [About me](https://www.youtube.com/watch?v=FIifz2QYDQ0)
+### [Presentation on the topic TypeScript](https://www.youtube.com/watch?v=0A_YIyrc-6g)
+
 
 ### 💻 Codewars:
 
