@@ -1,5 +1,5 @@
 
-# Hello, my name Misha!
+# Hello, my name is Misha!
 
 ---
 
@@ -7,13 +7,10 @@
 
 I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.My professional goal is to become a front-end developer. To achieve this goal, I devote all my time to learning programming. I have such qualities as analytical thinking, a structured approach to completing tasks, responsibility, and ability to work in a team.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-- :zap: Completed the courses - JS/FE Pre-School 2022Q4.
+- :zap: Completed the courses - JS/FE Pre-School 2022Q4.<img src="./assets/certificate-1.png">
 
-- :zap: Completed the courses - JavaScript/Front-end 2023Q1
+- :zap: Completed the courses - JavaScript/Front-end 2023Q1<img src="./assets/certificate-1.png">
 
 - :zap: Study now - Angular 2023Q4
 
@@ -37,9 +34,10 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="javascript" alt="typescript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -60,5 +58,3 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MishaKozarev)
