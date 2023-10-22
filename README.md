@@ -7,22 +7,7 @@
 
 I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.My professional goal is to become a front-end developer. To achieve this goal, I devote all my time to learning programming. I have such qualities as analytical thinking, a structured approach to completing tasks, responsibility, and ability to work in a team.
 
-## ⚡ Courses
-> The Rolling Scopes School
-  - JS/FE Pre-School 2022Q4
-  - Dec 2022 - Mar 2023
-  - <img src="./assets/certificate-1.png">
-  - [Certificate](https://app.rs.school/certificate/lmtosrkd)
-
-> The Rolling Scopes School
-  - JavaScript/Front-end 2023Q1
-  - Mar 2023 - sep 2023
-  - <img src="./assets/certificate-1.png">
-  - [Certificate](https://app.rs.school/certificate/lajfcpqz)
-
-> The Rolling Scopes School
-  - Angular 2023Q4
-  - oct 2023 - now
+---
 
 ### :mailbox: Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-MishaKozarev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MishaKozarev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mishaaaaa1986@mail.ru)
@@ -52,6 +37,42 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 ---
+
+## My Projects
+
+### [Plants](https://mishakozarev.github.io/Plants/)
+
+### [Momentum](https://mishakozarev.github.io/Momentum/)
+
+### [Shelter](https://mishakozarev.github.io/Shelter/shelter/pages/main/)
+
+### [Virtual-keyboard](https://mishakozarev.github.io/virtual-keyboard/)
+
+### [Minesweeper](https://mishakozarev.github.io/Minesweeper/minesweeper/)
+
+### [Rss-css-selectors](https://mishakozarev.github.io/CSS-Selectors-game/rs-css/index/)
+
+### [eCommerce-Application](https://mishakozarev.github.io/eCommerce-Application/index/)
+
+---
+
+### ⚡ Courses
+> The Rolling Scopes School
+  - JS/FE Pre-School 2022Q4
+  - Dec 2022 - Mar 2023
+  - [Certificate](https://app.rs.school/certificate/lmtosrkd)
+
+> The Rolling Scopes School
+  - JavaScript/Front-end 2023Q1
+  - Mar 2023 - sep 2023
+  - [Certificate](https://app.rs.school/certificate/lajfcpqz)
+
+> The Rolling Scopes School
+  - Angular 2023Q4
+  - oct 2023 - now
+
+---
+
 
 ### 💻 Codewars:
 
