@@ -10,7 +10,7 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: Completed the courses - JS/FE Pre-School 2022Q4.<img src="./assets/certificate-1.png">
 
-- :zap: Completed the courses - JavaScript/Front-end 2023Q1<img src="./assets/certificate-1.png">
+- :zap: Completed the courses - JavaScript/Front-end 2023Q1<img src="./assets/certificate-2.png">
 
 - :zap: Study now - Angular 2023Q4
 
@@ -58,3 +58,5 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
     </td>
   </tr>
 </table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MishaKozarev)
