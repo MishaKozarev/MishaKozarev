@@ -20,6 +20,9 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
     <a href="https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D0%B5%D0%B2-2a029725a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
+    <a href="https://www.instagram.com/mishakozarev/" target="_blank">
+      <img src="./assets/icon-instagram.png" width="40" height="40" alt="linkedin" />
+    </a>
   </div>
 
 ---
@@ -78,10 +81,13 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 #### [About me](https://www.youtube.com/watch?v=FIifz2QYDQ0)
 #### [Presentation on the topic TypeScript](https://www.youtube.com/watch?v=0A_YIyrc-6g)
 
+---
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/MishaKozarev/badges/large)
+
+---
 
 ### ⚙️ GitHub статистика:
 
