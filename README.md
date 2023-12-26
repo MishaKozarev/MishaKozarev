@@ -43,6 +43,8 @@ I an beginner front-end developer<img src="https://media.giphy.com/media/WUlplcM
 
 ### 📈 My Projects
 
+### [CV](https://mishakozarev.github.io/rsschool-cv/)
+
 #### [Plants](https://mishakozarev.github.io/Plants/)
 
 #### [Momentum](https://mishakozarev.github.io/Momentum/)
