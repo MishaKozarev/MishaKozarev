@@ -49,25 +49,25 @@ punctual, responsible!
 
 ### 📈 My Projects
 
-### [CV](https://mishakozarev.github.io/rsschool-cv/)
+#### [CV](https://mishakozarev.github.io/CV/)
 
-#### [Plants](https://mishakozarev.github.io/Plants/)
-
-#### [Momentum](https://mishakozarev.github.io/Momentum/)
-
-#### [Shelter](https://mishakozarev.github.io/Shelter/shelter/pages/main/)
-
-#### [Virtual-keyboard](https://mishakozarev.github.io/virtual-keyboard/)
-
-#### [Minesweeper](https://mishakozarev.github.io/Minesweeper/minesweeper/)
-
-#### [Rss-css-selectors](https://mishakozarev.github.io/CSS-Selectors-game/rs-css/index/)
-
-#### [eCommerce-Application](https://mishakozarev.github.io/eCommerce-Application/index/)
+#### [Connections-project-on-Angular](https://connection-mishakozarev.netlify.app)
 
 #### [YouTube-client-on-Angular](https://youtube-app-client-5.netlify.app/)
 
-#### [Connections-project-on-Angular](https://connection-mishakozarev.netlify.app)
+#### [eCommerce-Application](https://mishakozarev.github.io/eCommerce-Application/index/)
+
+#### [Rss-css-selectors](https://mishakozarev.github.io/CSS-Selectors-game/rs-css/index/)
+
+#### [Momentum](https://mishakozarev.github.io/Momentum/)
+
+#### [Minesweeper](https://mishakozarev.github.io/Minesweeper/minesweeper/)
+
+#### [Virtual-keyboard](https://mishakozarev.github.io/virtual-keyboard/)
+
+#### [Shelter](https://mishakozarev.github.io/Shelter/shelter/pages/main/)
+
+#### [Plants](https://mishakozarev.github.io/Plants/)
 
 ---
 
@@ -88,7 +88,7 @@ punctual, responsible!
 
 ---
 
-### 🌍 English - A2
+### 🌍 English - B1
 
 #### [About me](https://www.youtube.com/watch?v=FIifz2QYDQ0)
 #### [Presentation on the topic TypeScript](https://www.youtube.com/watch?v=0A_YIyrc-6g)
