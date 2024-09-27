@@ -5,13 +5,8 @@
 
 ### :man_technologist: About me:
 
-I am beginner front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I have over a year of experience in the field of Frontend development (non-commercial) and possess the following skills:
-HTML/HTML5, CSS/CSS3, SASS/SCSS, Material UI, JavaScript• TypeScript, Angular, RxJs, NgRx, Webpack, BEM, Git, Figma, Testing (Unit), SOLID, YAGNI, KISS, DRY, EsLint & Prettier, OOP.
-Higher technical education (engineer), several retraining courses
-responsible, goal-oriented, active, able to find a common language with people, approach the organization of the work process in a structured way
-always ready to learn and self-develop
-have excellent communication skills, easily integrate into any team
-punctual, responsible!
+Currently I work as a project manager in an IT company.
+I started as a front-end developer. My stack is JS, TS, Angular.
 
 ---
 
